@@ -12,3 +12,5 @@ https://kespitalnic.github.io/run-buddy/
 
 ## Contribution 
 Made with ❤️ by Katie
+
+### ©️2019 Run Buddy, Inc 
